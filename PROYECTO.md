@@ -6,3 +6,4 @@ Nombre del proyecto: Equipo Proyecto
 
 - Javier
 - Lourdes Serrano Gallardo
+- Ruben
