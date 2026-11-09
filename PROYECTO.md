@@ -1,7 +1,8 @@
 # Proyecto del equipo
 
-Nombre del proyecto: por definir
+Nombre del proyecto: Equipo Proyecto
 
 ## Miembros
 
-1. Lourdes Serrano Gallardo
+- Javier
+- Lourdes Serrano Gallardo
